@@ -7,6 +7,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.pydevproject
+.project
 env/
 build/
 develop-eggs/
