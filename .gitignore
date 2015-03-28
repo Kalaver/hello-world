@@ -9,6 +9,7 @@ __pycache__/
 .Python
 .pydevproject
 .project
+.settings/
 env/
 build/
 develop-eggs/
